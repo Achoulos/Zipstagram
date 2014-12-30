@@ -1,0 +1,73 @@
+html {
+  position: relative;
+  min-height: 100%;
+
+}
+body {
+  /* Margin bottom by footer height */
+  background: 
+
+  linear-gradient(
+      rgba(0, 0, 0, 0.30), 
+      rgba(0, 0, 0, 0.30)
+    ),
+
+  url('https://ununsplash.imgix.net/photo-1417021423914-070979c8eb34?q=75&fm=jpg&s=55746bd56e02a131b1e48c12196ea866') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin-bottom: 60px;
+  
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #f5f5f5;
+}
+
+/*.container {
+  width: auto;
+  max-width: 680px;
+  padding: 0 15px;
+}*/
+.container .text-muted {
+  margin: 20px 0;
+}
+
+div.masthead {
+  color: #FFFFFF;
+  
+  height: 200px;
+  width: 100%;
+  white-space: nowrap;
+
+  text-align: center; margin: 1em 0;
+}
+
+div {
+
+  //box-shadow:0px 1px 0px rgba(255,255,255,0.05) inset;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.1);
+
+}
+  
+span {
+  vertical-align: middle;
+}
+
+.centerSpan {
+    display: inline-block;
+    height: 100%
+    vertical-align: middle;
+}
+
+h1 span {
+  display: inline-block;
+  /*font-size: 200%;*/
+
+}
+/*# sourceMappingURL=main.css.map */
