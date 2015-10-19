@@ -9,7 +9,7 @@ Simply clone the repository, add your Instagram client/client secret keys to the
 
 #About
 
-This is my first solo project and my first node.js application. I would appreciate any feedback or corrections to my newbie code!
+This is my first solo project and my first node.js application. I would appreciate any feedback or corrections.
 
 #todo
 
